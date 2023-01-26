@@ -1,7 +1,7 @@
 
 # Deep Learning
 
-This repo includes deep learning tutorials
+This repo includes deep learning tutorials mainly using pytorch
 
 
 
